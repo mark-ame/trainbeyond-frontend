@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/_App/layout";
 import SEO from "../components/_App/seo"; 
 import NavbarStyleSix from "../components/_App/NavbarStyleSix";
-import MainBanner from '../components/DigitalAgencyPortfolio/MAinBanner';
+import MainBanner from '../components/DigitalAgencyPortfolio/MainBanner';
 import Projects from '../components/DigitalAgencyPortfolio/Projects';
 import AboutUsContent from '../components/DigitalAgencyPortfolio/AboutUsContent';
 import FeedbackStyleFive from '../components/Common/FeedbackStyleFive';
